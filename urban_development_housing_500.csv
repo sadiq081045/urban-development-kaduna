@@ -1,0 +1,501 @@
+Participant_ID,Gender,Age_Group,Education,Occupation,Monthly_Income,Urban_Development_Level,Housing_Price_Trend,Housing_Availability,Challenges_Affecting_Availability,Low_Income_Housing_Access,Urban_Development_Displacement,Policy_Recommendation,Local_Government_Area
+1,Male,51+,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,Yes,Public-private partnerships,Soba
+2,Male,18-30,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,No,No,Subsidized housing,Makarfi
+3,Male,51+,Secondary,Civil servant,"₦50,000-₦100,000",High,Increased slightly,Moderately available,Lack of affordable housing,Yes,Yes,Public-private partnerships,Makarfi
+4,Female,31-40,Primary,Self-employed,"₦50,000-₦100,000",Very low,Increased significantly,Moderately available,Poor urban planning,No,Yes,Public-private partnerships,Kudan
+5,Male,41-50,Primary,Self-employed,"₦100,000-₦200,000",High,Increased significantly,Low availability,Poor urban planning,No,No,Affordable housing projects,Zaria
+6,Male,51+,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Low availability,Unregulated land acquisition,Yes,Yes,Public-private partnerships,Soba
+7,Female,41-50,Secondary,Self-employed,"<₦50,000",High,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Public-private partnerships,Soba
+8,Female,31-40,Primary,Self-employed,"<₦50,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,No,Subsidized housing,Zaria
+9,Male,18-30,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,High demand and low supply,No,No,Land-use regulation,Jaba
+10,Male,31-40,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Decreased,Moderately available,Poor urban planning,Yes,No,Affordable housing projects,Zaria
+11,Female,41-50,No formal education,Civil servant,"<₦50,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,No,Public-private partnerships,Soba
+12,Male,18-30,Secondary,Other,"₦50,000-₦100,000",Very high,Increased slightly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Makarfi
+13,Female,18-30,Tertiary,Unemployed,"₦100,000-₦200,000",High,Increased slightly,Highly available,Unregulated land acquisition,Yes,No,Subsidized housing,Zaria
+14,Female,31-40,Primary,Civil servant,"₦100,000-₦200,000",High,Remained stable,Moderately available,High demand and low supply,No,No,Public-private partnerships,Ikara
+15,Female,41-50,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Moderately available,High demand and low supply,No,No,Affordable housing projects,Jaba
+16,Female,18-30,Tertiary,Self-employed,"<₦50,000",Moderate,Increased significantly,Highly available,Lack of affordable housing,Yes,No,Land-use regulation,Makarfi
+17,Female,41-50,No formal education,Self-employed,"₦50,000-₦100,000",High,Remained stable,Highly available,High demand and low supply,Yes,Yes,Affordable housing projects,Lere
+18,Female,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Low,Increased slightly,Highly available,Unregulated land acquisition,No,No,Public-private partnerships,Makarfi
+19,Male,31-40,Secondary,Civil servant,"₦50,000-₦100,000",Low,Increased significantly,Low availability,High demand and low supply,Yes,No,Land-use regulation,Soba
+20,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Very high,Increased slightly,Low availability,Poor urban planning,No,No,Subsidized housing,Kaduna South
+21,Male,18-30,No formal education,Civil servant,"₦50,000-₦100,000",Low,Increased significantly,Low availability,Poor urban planning,No,No,Land-use regulation,Ikara
+22,Female,18-30,Tertiary,Self-employed,"<₦50,000",Very high,Increased significantly,Moderately available,Lack of affordable housing,Yes,No,Public-private partnerships,Zaria
+23,Female,31-40,No formal education,Civil servant,"<₦50,000",Moderate,Remained stable,Moderately available,High demand and low supply,No,Yes,Affordable housing projects,Kudan
+24,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very low,Decreased,Moderately available,Lack of affordable housing,No,Yes,Subsidized housing,Kaduna North
+25,Female,51+,No formal education,Unemployed,"<₦50,000",Moderate,Increased slightly,Moderately available,Lack of affordable housing,Yes,Yes,Subsidized housing,Kaduna South
+26,Female,31-40,Tertiary,Self-employed,"<₦50,000",Moderate,Increased significantly,Highly available,High demand and low supply,Yes,No,Subsidized housing,Kudan
+27,Female,31-40,Secondary,Unemployed,"₦100,000-₦200,000",Moderate,Decreased,Highly available,Lack of affordable housing,Yes,Yes,Public-private partnerships,Zaria
+28,Male,18-30,Tertiary,Other,"₦50,000-₦100,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Chikun
+29,Female,41-50,Tertiary,Other,"<₦50,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Affordable housing projects,Ikara
+30,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Highly available,Unregulated land acquisition,No,Yes,Land-use regulation,Jaba
+31,Male,31-40,No formal education,Other,">₦200,000",Moderate,Increased slightly,Highly available,Poor urban planning,Yes,No,Subsidized housing,Ikara
+32,Female,18-30,Tertiary,Civil servant,"₦50,000-₦100,000",High,Remained stable,Highly available,Unregulated land acquisition,Yes,No,Public-private partnerships,Chikun
+33,Female,41-50,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Highly available,Lack of affordable housing,No,Yes,Subsidized housing,Makarfi
+34,Male,18-30,No formal education,Civil servant,"₦100,000-₦200,000",Low,Increased significantly,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Chikun
+35,Male,41-50,Tertiary,Civil servant,"₦100,000-₦200,000",High,Increased slightly,Highly available,Poor urban planning,No,No,Affordable housing projects,Ikara
+36,Male,31-40,Primary,Other,">₦200,000",Very high,Increased slightly,Moderately available,Lack of affordable housing,No,Yes,Subsidized housing,Kaduna South
+37,Female,31-40,Primary,Self-employed,">₦200,000",Moderate,Decreased,Moderately available,High demand and low supply,No,No,Subsidized housing,Makarfi
+38,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Low,Increased slightly,Low availability,Poor urban planning,No,No,Land-use regulation,Kaduna North
+39,Male,41-50,Tertiary,Unemployed,"₦100,000-₦200,000",Low,Decreased,Moderately available,High demand and low supply,No,No,Affordable housing projects,Makarfi
+40,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Very low,Increased significantly,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Kaduna North
+41,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Lere
+42,Female,18-30,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Poor urban planning,No,Yes,Subsidized housing,Kaduna South
+43,Female,18-30,Primary,Civil servant,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,No,Land-use regulation,Kaduna North
+44,Male,18-30,Tertiary,Self-employed,">₦200,000",Very low,Remained stable,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Lere
+45,Female,51+,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Lack of affordable housing,No,Yes,Land-use regulation,Ikara
+46,Female,18-30,Secondary,Other,"₦50,000-₦100,000",High,Increased slightly,Highly available,Lack of affordable housing,No,Yes,Land-use regulation,Chikun
+47,Female,41-50,Secondary,Unemployed,"<₦50,000",High,Increased slightly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Kudan
+48,Male,51+,Primary,Other,"<₦50,000",Moderate,Increased slightly,Low availability,Lack of affordable housing,No,Yes,Affordable housing projects,Soba
+49,Male,51+,Primary,Self-employed,"<₦50,000",High,Remained stable,Moderately available,Poor urban planning,No,No,Subsidized housing,Lere
+50,Female,51+,Tertiary,Self-employed,"₦100,000-₦200,000",Very high,Increased significantly,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Ikara
+51,Male,18-30,Primary,Self-employed,"<₦50,000",High,Increased significantly,Low availability,Lack of affordable housing,Yes,No,Affordable housing projects,Lere
+52,Male,41-50,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Low availability,Poor urban planning,No,No,Affordable housing projects,Jaba
+53,Female,31-40,Tertiary,Unemployed,"₦50,000-₦100,000",High,Increased slightly,Low availability,High demand and low supply,No,No,Subsidized housing,Ikara
+54,Female,41-50,Primary,Self-employed,">₦200,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,Yes,Yes,Affordable housing projects,Soba
+55,Female,41-50,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Low availability,Lack of affordable housing,No,Yes,Affordable housing projects,Ikara
+56,Female,51+,Primary,Self-employed,"₦50,000-₦100,000",Moderate,Decreased,Low availability,Poor urban planning,No,No,Subsidized housing,Zaria
+57,Male,18-30,Tertiary,Unemployed,"₦100,000-₦200,000",Very high,Increased significantly,Moderately available,Lack of affordable housing,No,Yes,Subsidized housing,Soba
+58,Male,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,High demand and low supply,Yes,No,Subsidized housing,Jaba
+59,Female,18-30,No formal education,Civil servant,"<₦50,000",Low,Increased significantly,Low availability,Poor urban planning,Yes,No,Land-use regulation,Kaduna South
+60,Male,31-40,Secondary,Civil servant,"₦50,000-₦100,000",High,Increased significantly,Highly available,Poor urban planning,No,Yes,Land-use regulation,Zaria
+61,Female,31-40,No formal education,Unemployed,"<₦50,000",Very low,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Lere
+62,Male,41-50,Secondary,Unemployed,">₦200,000",Very high,Remained stable,Low availability,Poor urban planning,No,No,Subsidized housing,Kudan
+63,Female,31-40,Tertiary,Unemployed,"₦100,000-₦200,000",Moderate,Remained stable,Low availability,Poor urban planning,No,Yes,Subsidized housing,Zaria
+64,Male,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,High demand and low supply,No,Yes,Public-private partnerships,Makarfi
+65,Female,31-40,Secondary,Civil servant,">₦200,000",Moderate,Decreased,Moderately available,Poor urban planning,No,No,Land-use regulation,Lere
+66,Female,41-50,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,High demand and low supply,Yes,No,Land-use regulation,Kaduna North
+67,Male,51+,Primary,Other,"<₦50,000",Low,Increased slightly,Highly available,Lack of affordable housing,No,No,Land-use regulation,Chikun
+68,Male,18-30,Secondary,Unemployed,"₦50,000-₦100,000",High,Decreased,Highly available,Unregulated land acquisition,No,Yes,Affordable housing projects,Kaduna North
+69,Female,41-50,Primary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,No,Yes,Land-use regulation,Jaba
+70,Female,31-40,No formal education,Civil servant,"<₦50,000",Very high,Increased slightly,Moderately available,Poor urban planning,No,No,Subsidized housing,Kaduna South
+71,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Low,Decreased,Moderately available,Unregulated land acquisition,Yes,No,Affordable housing projects,Lere
+72,Male,41-50,Primary,Unemployed,"<₦50,000",Moderate,Increased significantly,Highly available,Unregulated land acquisition,No,Yes,Land-use regulation,Chikun
+73,Female,31-40,No formal education,Civil servant,">₦200,000",Low,Decreased,Low availability,Lack of affordable housing,Yes,Yes,Affordable housing projects,Chikun
+74,Male,41-50,Secondary,Other,"₦100,000-₦200,000",Very high,Remained stable,Moderately available,Lack of affordable housing,Yes,Yes,Affordable housing projects,Zaria
+75,Female,18-30,Secondary,Self-employed,"<₦50,000",High,Decreased,Low availability,Unregulated land acquisition,No,No,Public-private partnerships,Ikara
+76,Female,18-30,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,No,Affordable housing projects,Chikun
+77,Female,18-30,No formal education,Civil servant,"<₦50,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,Yes,Yes,Land-use regulation,Kudan
+78,Female,31-40,Secondary,Civil servant,"<₦50,000",Very high,Increased significantly,Low availability,Lack of affordable housing,No,No,Land-use regulation,Chikun
+79,Female,31-40,Secondary,Civil servant,">₦200,000",Low,Remained stable,Moderately available,Unregulated land acquisition,Yes,No,Subsidized housing,Kudan
+80,Female,18-30,Secondary,Self-employed,"<₦50,000",Very low,Increased slightly,Low availability,Lack of affordable housing,No,No,Public-private partnerships,Soba
+81,Female,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Kaduna South
+82,Male,31-40,Tertiary,Self-employed,">₦200,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Makarfi
+83,Female,18-30,Secondary,Unemployed,"<₦50,000",High,Increased significantly,Highly available,Unregulated land acquisition,Yes,No,Public-private partnerships,Ikara
+84,Female,51+,Secondary,Unemployed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Kudan
+85,Male,41-50,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Subsidized housing,Jaba
+86,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Makarfi
+87,Male,51+,Tertiary,Civil servant,"<₦50,000",High,Increased slightly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Lere
+88,Female,18-30,Tertiary,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Low availability,Poor urban planning,Yes,No,Affordable housing projects,Kudan
+89,Female,31-40,Tertiary,Unemployed,"₦50,000-₦100,000",Moderate,Remained stable,Low availability,Poor urban planning,Yes,Yes,Affordable housing projects,Kudan
+90,Male,18-30,Tertiary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Low availability,High demand and low supply,No,No,Public-private partnerships,Kaduna South
+91,Male,31-40,Primary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,No,Affordable housing projects,Kaduna North
+92,Male,41-50,Secondary,Civil servant,"₦50,000-₦100,000",High,Increased significantly,Low availability,High demand and low supply,No,No,Public-private partnerships,Zaria
+93,Female,31-40,Tertiary,Unemployed,">₦200,000",Moderate,Increased significantly,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Jaba
+94,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Jaba
+95,Male,41-50,Secondary,Self-employed,"<₦50,000",Low,Increased significantly,Highly available,Poor urban planning,No,Yes,Land-use regulation,Jaba
+96,Male,31-40,Tertiary,Self-employed,"<₦50,000",Very high,Remained stable,Highly available,High demand and low supply,No,No,Land-use regulation,Ikara
+97,Male,41-50,Tertiary,Self-employed,"₦100,000-₦200,000",Very low,Decreased,Moderately available,Lack of affordable housing,No,Yes,Land-use regulation,Soba
+98,Male,18-30,Primary,Other,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Kudan
+99,Female,31-40,Primary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Highly available,Poor urban planning,No,Yes,Affordable housing projects,Lere
+100,Female,41-50,Primary,Self-employed,"₦50,000-₦100,000",Low,Remained stable,Moderately available,Unregulated land acquisition,No,No,Public-private partnerships,Lere
+101,Female,51+,Secondary,Unemployed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Makarfi
+102,Female,18-30,Secondary,Self-employed,">₦200,000",High,Remained stable,Moderately available,High demand and low supply,Yes,No,Subsidized housing,Soba
+103,Male,18-30,Secondary,Civil servant,"<₦50,000",Moderate,Remained stable,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Kaduna North
+104,Male,18-30,Tertiary,Other,">₦200,000",Moderate,Increased significantly,Low availability,Poor urban planning,No,No,Affordable housing projects,Zaria
+105,Female,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Low,Increased slightly,Moderately available,Poor urban planning,No,No,Land-use regulation,Kaduna South
+106,Male,41-50,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,Yes,No,Subsidized housing,Kaduna North
+107,Male,41-50,No formal education,Self-employed,"₦100,000-₦200,000",Low,Increased slightly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Chikun
+108,Female,31-40,Primary,Self-employed,"₦50,000-₦100,000",Very low,Increased significantly,Low availability,Poor urban planning,Yes,Yes,Subsidized housing,Jaba
+109,Female,51+,Secondary,Unemployed,">₦200,000",High,Decreased,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Ikara
+110,Female,41-50,Tertiary,Self-employed,"<₦50,000",Moderate,Remained stable,Low availability,Unregulated land acquisition,No,No,Land-use regulation,Chikun
+111,Male,51+,Primary,Unemployed,"<₦50,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,No,Yes,Affordable housing projects,Lere
+112,Female,18-30,No formal education,Self-employed,"₦100,000-₦200,000",Low,Decreased,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Zaria
+113,Male,31-40,Primary,Unemployed,"<₦50,000",Low,Increased slightly,Low availability,High demand and low supply,No,No,Public-private partnerships,Zaria
+114,Female,31-40,Secondary,Self-employed,">₦200,000",Very high,Remained stable,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Chikun
+115,Female,31-40,No formal education,Civil servant,"₦100,000-₦200,000",Very low,Remained stable,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Kudan
+116,Female,51+,Tertiary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Ikara
+117,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased significantly,Moderately available,High demand and low supply,No,No,Land-use regulation,Makarfi
+118,Female,18-30,Tertiary,Other,"₦50,000-₦100,000",Moderate,Remained stable,Moderately available,Lack of affordable housing,No,Yes,Public-private partnerships,Kaduna South
+119,Female,31-40,Tertiary,Civil servant,"<₦50,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Public-private partnerships,Kudan
+120,Female,18-30,Tertiary,Unemployed,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,Yes,No,Subsidized housing,Lere
+121,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Low,Increased slightly,Highly available,Lack of affordable housing,No,No,Affordable housing projects,Lere
+122,Female,18-30,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,No,Public-private partnerships,Ikara
+123,Male,18-30,Secondary,Unemployed,"₦100,000-₦200,000",Very high,Increased significantly,Low availability,Unregulated land acquisition,Yes,Yes,Land-use regulation,Chikun
+124,Female,41-50,Secondary,Civil servant,">₦200,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,Yes,Yes,Public-private partnerships,Makarfi
+125,Female,31-40,Secondary,Unemployed,"₦100,000-₦200,000",Very high,Increased significantly,Low availability,Unregulated land acquisition,No,No,Affordable housing projects,Zaria
+126,Male,18-30,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Lere
+127,Female,18-30,Tertiary,Civil servant,"<₦50,000",Low,Remained stable,Low availability,Unregulated land acquisition,Yes,No,Land-use regulation,Ikara
+128,Female,18-30,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,No,Land-use regulation,Chikun
+129,Female,51+,Secondary,Civil servant,"₦100,000-₦200,000",High,Increased significantly,Low availability,High demand and low supply,Yes,Yes,Land-use regulation,Chikun
+130,Male,51+,Tertiary,Self-employed,">₦200,000",Very low,Increased significantly,Highly available,Lack of affordable housing,Yes,Yes,Land-use regulation,Ikara
+131,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,Yes,Public-private partnerships,Ikara
+132,Male,41-50,Primary,Civil servant,"<₦50,000",Low,Increased slightly,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Soba
+133,Female,41-50,Primary,Civil servant,"<₦50,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,No,Affordable housing projects,Makarfi
+134,Male,31-40,Secondary,Civil servant,"<₦50,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,Yes,Yes,Subsidized housing,Soba
+135,Male,31-40,Secondary,Other,"₦100,000-₦200,000",High,Remained stable,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Kaduna North
+136,Male,51+,Tertiary,Civil servant,"₦100,000-₦200,000",Very high,Remained stable,Moderately available,High demand and low supply,No,Yes,Public-private partnerships,Kaduna North
+137,Male,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Makarfi
+138,Male,41-50,Secondary,Civil servant,">₦200,000",Moderate,Remained stable,Moderately available,Lack of affordable housing,No,Yes,Land-use regulation,Kaduna North
+139,Male,18-30,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Poor urban planning,Yes,No,Subsidized housing,Makarfi
+140,Male,18-30,Tertiary,Other,"₦100,000-₦200,000",Very high,Increased significantly,Highly available,Unregulated land acquisition,Yes,Yes,Subsidized housing,Ikara
+141,Female,31-40,Tertiary,Other,"₦100,000-₦200,000",Very low,Increased significantly,Low availability,Poor urban planning,No,No,Public-private partnerships,Jaba
+142,Female,18-30,No formal education,Other,"₦100,000-₦200,000",High,Increased significantly,Highly available,Lack of affordable housing,No,No,Subsidized housing,Jaba
+143,Male,18-30,Primary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Low availability,High demand and low supply,Yes,Yes,Public-private partnerships,Soba
+144,Female,41-50,Primary,Civil servant,"<₦50,000",Low,Increased significantly,Moderately available,High demand and low supply,No,Yes,Public-private partnerships,Ikara
+145,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Highly available,High demand and low supply,Yes,No,Public-private partnerships,Ikara
+146,Male,31-40,Secondary,Unemployed,"₦50,000-₦100,000",High,Remained stable,Moderately available,Poor urban planning,No,No,Affordable housing projects,Makarfi
+147,Female,41-50,Tertiary,Other,"₦100,000-₦200,000",Moderate,Decreased,Low availability,Lack of affordable housing,No,No,Affordable housing projects,Makarfi
+148,Male,31-40,Primary,Self-employed,"₦50,000-₦100,000",High,Decreased,Moderately available,High demand and low supply,No,No,Affordable housing projects,Kudan
+149,Male,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Decreased,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Zaria
+150,Male,41-50,Tertiary,Unemployed,"<₦50,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Zaria
+151,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased significantly,Highly available,Unregulated land acquisition,Yes,Yes,Land-use regulation,Zaria
+152,Male,31-40,Primary,Other,"₦100,000-₦200,000",Very low,Increased significantly,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Kudan
+153,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Low,Remained stable,Moderately available,High demand and low supply,Yes,Yes,Public-private partnerships,Kaduna South
+154,Male,51+,Secondary,Civil servant,"₦50,000-₦100,000",High,Increased significantly,Low availability,Unregulated land acquisition,Yes,No,Land-use regulation,Kaduna North
+155,Female,41-50,No formal education,Self-employed,"₦50,000-₦100,000",Very low,Increased significantly,Highly available,Poor urban planning,No,No,Public-private partnerships,Chikun
+156,Female,18-30,Primary,Other,"<₦50,000",Very low,Increased significantly,Moderately available,Poor urban planning,No,No,Affordable housing projects,Jaba
+157,Female,31-40,Secondary,Civil servant,"<₦50,000",Low,Increased slightly,Moderately available,Lack of affordable housing,Yes,Yes,Affordable housing projects,Makarfi
+158,Male,41-50,Tertiary,Civil servant,"<₦50,000",Moderate,Remained stable,Highly available,Lack of affordable housing,Yes,No,Subsidized housing,Jaba
+159,Female,18-30,Tertiary,Other,"₦50,000-₦100,000",Very low,Increased significantly,Low availability,Poor urban planning,Yes,No,Land-use regulation,Soba
+160,Male,31-40,Primary,Unemployed,"<₦50,000",High,Increased significantly,Moderately available,Unregulated land acquisition,Yes,No,Public-private partnerships,Chikun
+161,Female,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Low,Increased slightly,Low availability,Lack of affordable housing,No,No,Public-private partnerships,Makarfi
+162,Female,31-40,Secondary,Civil servant,"₦50,000-₦100,000",Low,Decreased,Highly available,High demand and low supply,No,Yes,Affordable housing projects,Kaduna North
+163,Male,51+,No formal education,Unemployed,"<₦50,000",High,Increased significantly,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Kudan
+164,Male,51+,Tertiary,Civil servant,"<₦50,000",Moderate,Increased slightly,Highly available,Poor urban planning,Yes,Yes,Affordable housing projects,Chikun
+165,Male,41-50,Tertiary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Lack of affordable housing,No,No,Affordable housing projects,Kaduna North
+166,Female,18-30,Primary,Civil servant,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Public-private partnerships,Soba
+167,Male,31-40,Secondary,Other,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Lere
+168,Male,41-50,No formal education,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Kaduna North
+169,Female,31-40,Secondary,Civil servant,"<₦50,000",High,Increased significantly,Moderately available,High demand and low supply,No,Yes,Public-private partnerships,Jaba
+170,Female,41-50,Secondary,Civil servant,"₦100,000-₦200,000",High,Remained stable,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Jaba
+171,Male,18-30,Secondary,Unemployed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Kaduna South
+172,Male,18-30,Primary,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Lack of affordable housing,No,No,Affordable housing projects,Lere
+173,Female,31-40,Secondary,Other,">₦200,000",High,Increased slightly,Low availability,High demand and low supply,No,No,Subsidized housing,Lere
+174,Female,18-30,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Land-use regulation,Makarfi
+175,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very high,Remained stable,Moderately available,High demand and low supply,No,Yes,Subsidized housing,Chikun
+176,Male,18-30,Secondary,Self-employed,">₦200,000",Very high,Remained stable,Moderately available,High demand and low supply,No,Yes,Affordable housing projects,Lere
+177,Female,41-50,Primary,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,No,No,Public-private partnerships,Lere
+178,Female,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Low,Increased slightly,Moderately available,Lack of affordable housing,Yes,No,Public-private partnerships,Soba
+179,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Low,Decreased,Moderately available,High demand and low supply,No,Yes,Subsidized housing,Soba
+180,Male,31-40,Secondary,Self-employed,"<₦50,000",High,Increased significantly,Highly available,Poor urban planning,Yes,No,Public-private partnerships,Jaba
+181,Female,18-30,Secondary,Unemployed,"<₦50,000",Moderate,Remained stable,Low availability,Lack of affordable housing,No,Yes,Affordable housing projects,Soba
+182,Male,51+,No formal education,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,High demand and low supply,Yes,No,Subsidized housing,Jaba
+183,Female,31-40,No formal education,Other,"₦100,000-₦200,000",Very high,Decreased,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Kaduna North
+184,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Lack of affordable housing,Yes,No,Subsidized housing,Jaba
+185,Female,41-50,Secondary,Civil servant,"₦50,000-₦100,000",Very high,Remained stable,Low availability,Poor urban planning,No,Yes,Land-use regulation,Ikara
+186,Female,18-30,Tertiary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Highly available,Lack of affordable housing,Yes,No,Subsidized housing,Lere
+187,Female,18-30,Secondary,Civil servant,"₦100,000-₦200,000",Low,Increased significantly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Kaduna North
+188,Female,18-30,Primary,Unemployed,"<₦50,000",Very high,Decreased,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Kaduna North
+189,Female,41-50,Tertiary,Civil servant,"<₦50,000",Low,Increased significantly,Highly available,High demand and low supply,No,No,Land-use regulation,Jaba
+190,Female,31-40,Tertiary,Civil servant,"₦50,000-₦100,000",Very high,Increased slightly,Low availability,Lack of affordable housing,No,Yes,Subsidized housing,Kaduna North
+191,Male,18-30,Tertiary,Other,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Unregulated land acquisition,Yes,Yes,Subsidized housing,Kaduna South
+192,Female,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,High demand and low supply,No,Yes,Public-private partnerships,Soba
+193,Male,41-50,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Remained stable,Low availability,High demand and low supply,No,Yes,Subsidized housing,Kaduna South
+194,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,Poor urban planning,Yes,Yes,Public-private partnerships,Kudan
+195,Male,31-40,Tertiary,Self-employed,"<₦50,000",Low,Decreased,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Kaduna North
+196,Male,18-30,Secondary,Civil servant,"<₦50,000",Low,Increased slightly,Moderately available,High demand and low supply,No,Yes,Land-use regulation,Chikun
+197,Male,51+,Tertiary,Unemployed,"₦100,000-₦200,000",Very high,Remained stable,Low availability,Poor urban planning,No,No,Affordable housing projects,Zaria
+198,Male,31-40,Tertiary,Civil servant,"<₦50,000",Low,Increased significantly,Highly available,High demand and low supply,Yes,No,Affordable housing projects,Soba
+199,Female,31-40,Tertiary,Unemployed,"<₦50,000",Low,Increased significantly,Highly available,High demand and low supply,No,No,Land-use regulation,Kaduna South
+200,Female,51+,Secondary,Civil servant,"₦100,000-₦200,000",High,Remained stable,Low availability,Lack of affordable housing,Yes,No,Land-use regulation,Soba
+201,Male,31-40,Secondary,Civil servant,">₦200,000",High,Increased significantly,Moderately available,Poor urban planning,Yes,No,Subsidized housing,Jaba
+202,Male,41-50,Primary,Civil servant,"₦50,000-₦100,000",High,Increased significantly,Highly available,Lack of affordable housing,No,Yes,Land-use regulation,Jaba
+203,Male,51+,Tertiary,Self-employed,"<₦50,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,Yes,Land-use regulation,Jaba
+204,Male,41-50,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Moderately available,High demand and low supply,No,No,Affordable housing projects,Zaria
+205,Male,18-30,Primary,Self-employed,"₦100,000-₦200,000",Low,Increased significantly,Moderately available,High demand and low supply,Yes,No,Subsidized housing,Ikara
+206,Male,18-30,Secondary,Self-employed,"<₦50,000",High,Increased significantly,Highly available,Lack of affordable housing,No,Yes,Subsidized housing,Makarfi
+207,Male,41-50,Primary,Self-employed,"<₦50,000",Low,Increased slightly,Moderately available,Poor urban planning,Yes,No,Subsidized housing,Ikara
+208,Male,51+,Secondary,Unemployed,"<₦50,000",Moderate,Decreased,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Zaria
+209,Male,18-30,Secondary,Unemployed,"<₦50,000",Low,Increased significantly,Moderately available,Poor urban planning,No,Yes,Subsidized housing,Kaduna South
+210,Female,41-50,Secondary,Civil servant,"₦100,000-₦200,000",Very low,Decreased,Moderately available,Unregulated land acquisition,Yes,No,Affordable housing projects,Kaduna North
+211,Female,51+,Secondary,Self-employed,"₦50,000-₦100,000",Very low,Remained stable,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Ikara
+212,Female,41-50,Primary,Civil servant,"<₦50,000",Moderate,Remained stable,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Jaba
+213,Male,51+,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Subsidized housing,Lere
+214,Female,41-50,Secondary,Civil servant,">₦200,000",Low,Increased slightly,Low availability,High demand and low supply,No,Yes,Subsidized housing,Lere
+215,Male,18-30,Secondary,Self-employed,"₦100,000-₦200,000",High,Increased significantly,Moderately available,Lack of affordable housing,Yes,Yes,Subsidized housing,Zaria
+216,Female,31-40,Primary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,No,Yes,Land-use regulation,Kudan
+217,Male,31-40,Secondary,Unemployed,"<₦50,000",Very high,Increased significantly,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Zaria
+218,Female,51+,Tertiary,Civil servant,"<₦50,000",Low,Decreased,Highly available,High demand and low supply,No,No,Affordable housing projects,Kudan
+219,Female,51+,Secondary,Other,"₦50,000-₦100,000",High,Remained stable,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Jaba
+220,Female,41-50,Secondary,Self-employed,"₦100,000-₦200,000",Very low,Decreased,Low availability,High demand and low supply,No,No,Affordable housing projects,Lere
+221,Male,31-40,No formal education,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,No,Land-use regulation,Makarfi
+222,Male,18-30,Secondary,Civil servant,"<₦50,000",Very high,Remained stable,Moderately available,High demand and low supply,No,Yes,Land-use regulation,Kaduna North
+223,Female,41-50,No formal education,Self-employed,"₦100,000-₦200,000",Very high,Increased slightly,Low availability,High demand and low supply,Yes,No,Affordable housing projects,Zaria
+224,Female,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Decreased,Highly available,Poor urban planning,No,No,Public-private partnerships,Zaria
+225,Female,18-30,No formal education,Other,">₦200,000",Very high,Remained stable,Moderately available,High demand and low supply,No,No,Land-use regulation,Kaduna North
+226,Female,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,High demand and low supply,Yes,Yes,Public-private partnerships,Lere
+227,Male,51+,Primary,Other,"₦50,000-₦100,000",High,Increased significantly,Moderately available,Unregulated land acquisition,Yes,Yes,Subsidized housing,Zaria
+228,Male,18-30,Primary,Self-employed,"<₦50,000",Low,Increased significantly,Moderately available,High demand and low supply,No,No,Land-use regulation,Kaduna South
+229,Female,18-30,Secondary,Civil servant,"₦100,000-₦200,000",Low,Increased significantly,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Makarfi
+230,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,Yes,Yes,Affordable housing projects,Lere
+231,Female,31-40,No formal education,Self-employed,"₦50,000-₦100,000",Moderate,Decreased,Highly available,High demand and low supply,Yes,No,Land-use regulation,Zaria
+232,Male,41-50,Tertiary,Civil servant,"<₦50,000",Very low,Increased slightly,Low availability,Unregulated land acquisition,No,Yes,Public-private partnerships,Lere
+233,Female,41-50,Primary,Civil servant,"₦50,000-₦100,000",High,Increased slightly,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Kaduna North
+234,Female,31-40,Tertiary,Unemployed,"<₦50,000",High,Decreased,Low availability,Lack of affordable housing,No,No,Subsidized housing,Zaria
+235,Female,18-30,Tertiary,Unemployed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Public-private partnerships,Kaduna South
+236,Male,51+,Secondary,Other,"₦50,000-₦100,000",Moderate,Remained stable,Low availability,High demand and low supply,No,Yes,Land-use regulation,Kaduna North
+237,Male,18-30,Tertiary,Unemployed,"₦50,000-₦100,000",Low,Increased significantly,Low availability,High demand and low supply,No,No,Land-use regulation,Zaria
+238,Female,41-50,Tertiary,Other,"<₦50,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Chikun
+239,Male,51+,Tertiary,Self-employed,"<₦50,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,Yes,No,Public-private partnerships,Soba
+240,Male,31-40,Secondary,Other,"₦50,000-₦100,000",High,Remained stable,Highly available,High demand and low supply,No,No,Public-private partnerships,Makarfi
+241,Female,41-50,Secondary,Self-employed,"<₦50,000",Moderate,Decreased,Low availability,Unregulated land acquisition,No,No,Public-private partnerships,Kudan
+242,Male,41-50,Tertiary,Unemployed,"₦50,000-₦100,000",Very low,Increased significantly,Highly available,High demand and low supply,Yes,No,Public-private partnerships,Kaduna South
+243,Male,31-40,Secondary,Self-employed,"<₦50,000",High,Remained stable,Low availability,Lack of affordable housing,Yes,No,Land-use regulation,Ikara
+244,Male,31-40,No formal education,Civil servant,"<₦50,000",High,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Zaria
+245,Male,18-30,Primary,Civil servant,"<₦50,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Public-private partnerships,Makarfi
+246,Male,41-50,Secondary,Self-employed,">₦200,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Chikun
+247,Female,41-50,Tertiary,Self-employed,"<₦50,000",Very high,Increased significantly,Low availability,High demand and low supply,Yes,No,Land-use regulation,Zaria
+248,Male,31-40,Secondary,Civil servant,"<₦50,000",High,Increased significantly,Highly available,Lack of affordable housing,Yes,No,Affordable housing projects,Makarfi
+249,Male,41-50,No formal education,Self-employed,"₦50,000-₦100,000",High,Increased significantly,Highly available,Lack of affordable housing,No,Yes,Subsidized housing,Makarfi
+250,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,No,Land-use regulation,Zaria
+251,Female,31-40,Tertiary,Civil servant,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,High demand and low supply,Yes,No,Land-use regulation,Soba
+252,Female,18-30,Secondary,Other,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Unregulated land acquisition,No,No,Subsidized housing,Makarfi
+253,Female,31-40,No formal education,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Subsidized housing,Chikun
+254,Female,51+,Secondary,Civil servant,">₦200,000",Moderate,Increased significantly,Moderately available,Poor urban planning,Yes,No,Subsidized housing,Makarfi
+255,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Very low,Increased significantly,Moderately available,Unregulated land acquisition,Yes,No,Land-use regulation,Lere
+256,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased significantly,Highly available,Unregulated land acquisition,No,Yes,Subsidized housing,Jaba
+257,Male,41-50,Primary,Civil servant,"₦100,000-₦200,000",High,Increased slightly,Highly available,Poor urban planning,No,No,Public-private partnerships,Zaria
+258,Female,51+,No formal education,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Subsidized housing,Jaba
+259,Female,31-40,Primary,Other,"<₦50,000",Moderate,Increased significantly,Low availability,Unregulated land acquisition,No,Yes,Subsidized housing,Chikun
+260,Female,41-50,No formal education,Civil servant,"₦50,000-₦100,000",Very high,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Subsidized housing,Kaduna South
+261,Male,51+,Primary,Self-employed,"₦50,000-₦100,000",Very high,Remained stable,Low availability,Unregulated land acquisition,Yes,No,Affordable housing projects,Kaduna North
+262,Female,18-30,Secondary,Civil servant,"<₦50,000",High,Remained stable,Moderately available,Lack of affordable housing,No,No,Land-use regulation,Chikun
+263,Male,31-40,No formal education,Unemployed,"<₦50,000",Very low,Increased slightly,Moderately available,Poor urban planning,Yes,No,Public-private partnerships,Ikara
+264,Female,18-30,Tertiary,Civil servant,"₦100,000-₦200,000",High,Remained stable,Highly available,High demand and low supply,No,No,Public-private partnerships,Kudan
+265,Female,18-30,No formal education,Unemployed,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,Poor urban planning,No,No,Public-private partnerships,Soba
+266,Male,18-30,Secondary,Other,"<₦50,000",High,Remained stable,Highly available,High demand and low supply,No,No,Public-private partnerships,Soba
+267,Female,31-40,Secondary,Unemployed,"<₦50,000",High,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Public-private partnerships,Makarfi
+268,Female,18-30,Tertiary,Civil servant,"<₦50,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Ikara
+269,Female,31-40,Tertiary,Civil servant,"₦50,000-₦100,000",Moderate,Remained stable,Highly available,Poor urban planning,No,Yes,Land-use regulation,Lere
+270,Male,18-30,Primary,Unemployed,"₦50,000-₦100,000",Very low,Decreased,Highly available,High demand and low supply,No,Yes,Land-use regulation,Kaduna North
+271,Male,31-40,Primary,Other,"<₦50,000",Moderate,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Land-use regulation,Lere
+272,Male,31-40,Secondary,Civil servant,"<₦50,000",Moderate,Increased significantly,Highly available,High demand and low supply,No,No,Affordable housing projects,Kudan
+273,Female,31-40,Secondary,Civil servant,"₦50,000-₦100,000",Very low,Increased significantly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Makarfi
+274,Male,18-30,Secondary,Civil servant,"<₦50,000",Moderate,Increased slightly,Moderately available,Lack of affordable housing,Yes,No,Public-private partnerships,Makarfi
+275,Male,18-30,Secondary,Civil servant,"₦100,000-₦200,000",Low,Decreased,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Kudan
+276,Male,41-50,Secondary,Unemployed,"₦100,000-₦200,000",Very low,Increased slightly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Zaria
+277,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very low,Increased slightly,Low availability,Unregulated land acquisition,No,No,Subsidized housing,Soba
+278,Male,31-40,Tertiary,Unemployed,"<₦50,000",Low,Increased slightly,Low availability,Unregulated land acquisition,Yes,No,Public-private partnerships,Ikara
+279,Female,18-30,Tertiary,Civil servant,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Poor urban planning,No,Yes,Public-private partnerships,Lere
+280,Male,18-30,No formal education,Self-employed,"<₦50,000",Very high,Increased slightly,Highly available,Lack of affordable housing,Yes,Yes,Affordable housing projects,Zaria
+281,Female,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,High demand and low supply,No,No,Land-use regulation,Ikara
+282,Female,31-40,Secondary,Self-employed,"<₦50,000",Low,Increased slightly,Low availability,Unregulated land acquisition,No,Yes,Public-private partnerships,Kaduna North
+283,Female,31-40,Tertiary,Unemployed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Public-private partnerships,Ikara
+284,Male,18-30,Tertiary,Unemployed,"₦50,000-₦100,000",High,Remained stable,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Makarfi
+285,Female,31-40,Primary,Self-employed,"<₦50,000",High,Increased significantly,Highly available,High demand and low supply,No,No,Subsidized housing,Lere
+286,Male,18-30,Primary,Civil servant,"₦50,000-₦100,000",Very high,Increased significantly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Kaduna South
+287,Male,41-50,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,No,Subsidized housing,Kaduna North
+288,Female,31-40,Primary,Civil servant,"₦50,000-₦100,000",Moderate,Increased slightly,Highly available,Poor urban planning,No,Yes,Land-use regulation,Ikara
+289,Male,51+,Tertiary,Civil servant,"₦50,000-₦100,000",High,Remained stable,Moderately available,High demand and low supply,No,No,Land-use regulation,Kaduna South
+290,Female,18-30,Tertiary,Other,"₦50,000-₦100,000",Low,Increased slightly,Moderately available,High demand and low supply,No,No,Land-use regulation,Zaria
+291,Male,31-40,Secondary,Unemployed,"₦100,000-₦200,000",Very low,Remained stable,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Makarfi
+292,Male,18-30,No formal education,Self-employed,"₦100,000-₦200,000",Very low,Increased slightly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Kudan
+293,Female,31-40,Secondary,Other,"<₦50,000",Moderate,Remained stable,Highly available,Poor urban planning,No,No,Affordable housing projects,Chikun
+294,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very low,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Kudan
+295,Male,41-50,Secondary,Civil servant,"₦100,000-₦200,000",Low,Remained stable,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Chikun
+296,Male,18-30,Tertiary,Self-employed,"<₦50,000",Low,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Affordable housing projects,Lere
+297,Male,41-50,Secondary,Self-employed,">₦200,000",Very high,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Land-use regulation,Soba
+298,Male,31-40,Tertiary,Unemployed,">₦200,000",Low,Increased slightly,Moderately available,Poor urban planning,Yes,No,Land-use regulation,Kaduna North
+299,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",High,Increased slightly,Low availability,Unregulated land acquisition,No,No,Affordable housing projects,Jaba
+300,Female,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Very high,Increased slightly,Highly available,High demand and low supply,Yes,Yes,Subsidized housing,Kaduna South
+301,Male,31-40,Tertiary,Unemployed,"<₦50,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,Yes,Land-use regulation,Lere
+302,Male,31-40,Secondary,Self-employed,"<₦50,000",Very low,Increased slightly,Moderately available,High demand and low supply,No,No,Land-use regulation,Makarfi
+303,Female,18-30,Secondary,Civil servant,"<₦50,000",Moderate,Increased significantly,Highly available,Lack of affordable housing,No,Yes,Subsidized housing,Soba
+304,Female,51+,Tertiary,Other,"<₦50,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Kudan
+305,Female,18-30,No formal education,Other,"₦100,000-₦200,000",Low,Increased significantly,Low availability,High demand and low supply,Yes,No,Subsidized housing,Ikara
+306,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,High demand and low supply,No,Yes,Affordable housing projects,Kudan
+307,Male,31-40,Tertiary,Unemployed,">₦200,000",Moderate,Increased slightly,Highly available,Poor urban planning,No,Yes,Subsidized housing,Lere
+308,Female,31-40,Secondary,Self-employed,">₦200,000",Very low,Increased slightly,Moderately available,High demand and low supply,Yes,Yes,Public-private partnerships,Jaba
+309,Female,31-40,Secondary,Self-employed,"<₦50,000",Low,Decreased,Low availability,Lack of affordable housing,No,No,Public-private partnerships,Makarfi
+310,Female,18-30,Secondary,Self-employed,"<₦50,000",Moderate,Remained stable,Highly available,Unregulated land acquisition,No,No,Subsidized housing,Kudan
+311,Female,51+,Tertiary,Civil servant,"<₦50,000",High,Increased slightly,Low availability,Poor urban planning,Yes,Yes,Affordable housing projects,Kudan
+312,Male,18-30,Secondary,Civil servant,"<₦50,000",Moderate,Increased significantly,Moderately available,Poor urban planning,Yes,No,Land-use regulation,Kaduna South
+313,Female,51+,Secondary,Other,"₦100,000-₦200,000",Moderate,Increased significantly,Highly available,Poor urban planning,No,No,Affordable housing projects,Lere
+314,Female,31-40,Secondary,Self-employed,"<₦50,000",Very high,Remained stable,Low availability,Poor urban planning,No,No,Land-use regulation,Kudan
+315,Female,41-50,Tertiary,Unemployed,"₦50,000-₦100,000",Very high,Increased significantly,Low availability,Poor urban planning,Yes,No,Affordable housing projects,Chikun
+316,Male,31-40,Secondary,Unemployed,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,High demand and low supply,Yes,No,Affordable housing projects,Kaduna North
+317,Male,51+,No formal education,Other,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Jaba
+318,Male,31-40,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,High demand and low supply,Yes,No,Affordable housing projects,Zaria
+319,Male,31-40,Primary,Unemployed,"<₦50,000",Low,Increased slightly,Low availability,High demand and low supply,No,No,Subsidized housing,Kaduna South
+320,Male,31-40,Primary,Unemployed,"<₦50,000",Low,Increased slightly,Moderately available,High demand and low supply,Yes,No,Public-private partnerships,Lere
+321,Male,41-50,Secondary,Self-employed,">₦200,000",Moderate,Increased significantly,Low availability,Poor urban planning,No,No,Land-use regulation,Kaduna South
+322,Female,18-30,Tertiary,Unemployed,"₦100,000-₦200,000",High,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Zaria
+323,Female,31-40,Tertiary,Civil servant,">₦200,000",Moderate,Increased significantly,Highly available,High demand and low supply,No,No,Affordable housing projects,Makarfi
+324,Male,51+,Tertiary,Civil servant,"₦50,000-₦100,000",Very high,Decreased,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Ikara
+325,Female,18-30,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,High demand and low supply,No,No,Land-use regulation,Makarfi
+326,Female,31-40,No formal education,Unemployed,"<₦50,000",High,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Subsidized housing,Kaduna South
+327,Male,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Very low,Increased significantly,Low availability,Poor urban planning,No,Yes,Land-use regulation,Makarfi
+328,Female,31-40,Secondary,Self-employed,"<₦50,000",Very high,Increased slightly,Highly available,Poor urban planning,Yes,No,Land-use regulation,Soba
+329,Male,51+,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Poor urban planning,No,No,Land-use regulation,Ikara
+330,Female,41-50,Tertiary,Civil servant,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Unregulated land acquisition,Yes,No,Affordable housing projects,Kaduna South
+331,Female,31-40,No formal education,Self-employed,"₦100,000-₦200,000",Low,Increased significantly,Low availability,Unregulated land acquisition,No,No,Public-private partnerships,Kaduna South
+332,Female,31-40,Secondary,Unemployed,"₦100,000-₦200,000",Moderate,Increased significantly,Highly available,High demand and low supply,No,Yes,Public-private partnerships,Zaria
+333,Male,31-40,Primary,Self-employed,"₦50,000-₦100,000",Very low,Remained stable,Moderately available,Lack of affordable housing,Yes,No,Public-private partnerships,Ikara
+334,Male,51+,No formal education,Civil servant,"<₦50,000",Very low,Increased slightly,Moderately available,Poor urban planning,No,No,Land-use regulation,Ikara
+335,Female,18-30,No formal education,Civil servant,"<₦50,000",Low,Increased significantly,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Kudan
+336,Male,31-40,Tertiary,Civil servant,"₦50,000-₦100,000",Very high,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Chikun
+337,Male,31-40,Tertiary,Civil servant,"<₦50,000",Moderate,Remained stable,Moderately available,Poor urban planning,No,No,Land-use regulation,Ikara
+338,Female,41-50,Primary,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Chikun
+339,Female,31-40,Primary,Unemployed,"<₦50,000",High,Increased significantly,Low availability,Unregulated land acquisition,No,Yes,Public-private partnerships,Kaduna North
+340,Female,31-40,Secondary,Other,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,High demand and low supply,Yes,Yes,Affordable housing projects,Lere
+341,Female,41-50,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Decreased,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Makarfi
+342,Male,18-30,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Jaba
+343,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very high,Increased slightly,Low availability,Poor urban planning,No,Yes,Affordable housing projects,Chikun
+344,Female,51+,No formal education,Self-employed,"₦100,000-₦200,000",High,Remained stable,Moderately available,Poor urban planning,No,Yes,Public-private partnerships,Soba
+345,Male,31-40,Tertiary,Other,"<₦50,000",High,Increased significantly,Highly available,Unregulated land acquisition,Yes,No,Subsidized housing,Lere
+346,Female,31-40,Secondary,Other,"₦100,000-₦200,000",Moderate,Increased slightly,Low availability,Unregulated land acquisition,No,No,Subsidized housing,Zaria
+347,Male,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Low,Increased slightly,Highly available,Lack of affordable housing,Yes,Yes,Public-private partnerships,Zaria
+348,Female,18-30,Secondary,Unemployed,"<₦50,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Soba
+349,Female,18-30,Tertiary,Civil servant,">₦200,000",Low,Increased slightly,Moderately available,High demand and low supply,No,No,Affordable housing projects,Kudan
+350,Male,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Very high,Increased slightly,Highly available,Poor urban planning,No,No,Affordable housing projects,Kudan
+351,Female,51+,Tertiary,Unemployed,"<₦50,000",Moderate,Decreased,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Lere
+352,Female,31-40,Tertiary,Other,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Ikara
+353,Female,41-50,Secondary,Unemployed,"<₦50,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Ikara
+354,Female,18-30,Secondary,Other,"<₦50,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Public-private partnerships,Kaduna North
+355,Male,31-40,Primary,Civil servant,"₦100,000-₦200,000",Moderate,Decreased,Low availability,Lack of affordable housing,No,No,Subsidized housing,Kudan
+356,Male,18-30,Primary,Other,"₦50,000-₦100,000",Very high,Increased slightly,Highly available,High demand and low supply,Yes,No,Public-private partnerships,Zaria
+357,Female,41-50,Secondary,Self-employed,"<₦50,000",Low,Increased slightly,Highly available,Unregulated land acquisition,No,No,Affordable housing projects,Kudan
+358,Female,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,No,Subsidized housing,Kudan
+359,Male,18-30,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Highly available,Poor urban planning,Yes,No,Subsidized housing,Zaria
+360,Female,31-40,Tertiary,Civil servant,"₦50,000-₦100,000",Moderate,Decreased,Low availability,Unregulated land acquisition,No,No,Land-use regulation,Ikara
+361,Female,31-40,Primary,Unemployed,"<₦50,000",Moderate,Increased slightly,Highly available,Unregulated land acquisition,No,No,Affordable housing projects,Soba
+362,Male,51+,No formal education,Other,"₦50,000-₦100,000",High,Increased slightly,Low availability,Poor urban planning,No,No,Public-private partnerships,Lere
+363,Male,31-40,Primary,Unemployed,"₦100,000-₦200,000",High,Increased slightly,Low availability,High demand and low supply,Yes,No,Subsidized housing,Jaba
+364,Female,31-40,Tertiary,Unemployed,">₦200,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Public-private partnerships,Kaduna South
+365,Male,31-40,Primary,Civil servant,"₦50,000-₦100,000",High,Remained stable,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Lere
+366,Male,31-40,Primary,Civil servant,"₦100,000-₦200,000",Moderate,Decreased,Moderately available,High demand and low supply,Yes,No,Land-use regulation,Jaba
+367,Female,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Very high,Increased significantly,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Ikara
+368,Male,41-50,Tertiary,Self-employed,">₦200,000",High,Increased significantly,Moderately available,Lack of affordable housing,No,Yes,Land-use regulation,Makarfi
+369,Female,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Very high,Increased significantly,Moderately available,High demand and low supply,No,Yes,Subsidized housing,Soba
+370,Male,31-40,Secondary,Unemployed,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,Yes,Subsidized housing,Jaba
+371,Female,41-50,Tertiary,Other,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,Yes,No,Public-private partnerships,Makarfi
+372,Male,51+,Tertiary,Self-employed,">₦200,000",Very low,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Affordable housing projects,Kaduna South
+373,Male,51+,Tertiary,Unemployed,"₦100,000-₦200,000",Low,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Affordable housing projects,Soba
+374,Female,18-30,Primary,Civil servant,"₦50,000-₦100,000",Very low,Increased slightly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Lere
+375,Female,18-30,Primary,Unemployed,"₦50,000-₦100,000",Low,Increased slightly,Highly available,Poor urban planning,Yes,Yes,Land-use regulation,Kaduna North
+376,Female,51+,Tertiary,Civil servant,"₦50,000-₦100,000",Low,Decreased,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Zaria
+377,Female,18-30,Tertiary,Self-employed,">₦200,000",Very high,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Zaria
+378,Female,41-50,Primary,Self-employed,"₦50,000-₦100,000",High,Increased significantly,Highly available,Unregulated land acquisition,No,No,Land-use regulation,Makarfi
+379,Male,41-50,Tertiary,Civil servant,"₦100,000-₦200,000",High,Remained stable,Low availability,Poor urban planning,No,Yes,Public-private partnerships,Chikun
+380,Female,31-40,Tertiary,Unemployed,"<₦50,000",High,Increased slightly,Moderately available,High demand and low supply,No,No,Subsidized housing,Kaduna South
+381,Male,18-30,Tertiary,Unemployed,"<₦50,000",Low,Increased slightly,Highly available,Lack of affordable housing,No,Yes,Affordable housing projects,Kudan
+382,Male,18-30,No formal education,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Low availability,Poor urban planning,No,No,Public-private partnerships,Kaduna South
+383,Female,31-40,Primary,Self-employed,"₦100,000-₦200,000",High,Decreased,Low availability,High demand and low supply,No,No,Land-use regulation,Soba
+384,Male,31-40,Tertiary,Other,">₦200,000",Very high,Remained stable,Low availability,High demand and low supply,Yes,No,Public-private partnerships,Kaduna North
+385,Male,41-50,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Highly available,Poor urban planning,No,No,Land-use regulation,Kudan
+386,Female,18-30,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Zaria
+387,Male,41-50,Primary,Self-employed,"<₦50,000",Low,Increased slightly,Moderately available,Unregulated land acquisition,No,Yes,Subsidized housing,Chikun
+388,Male,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Very high,Increased significantly,Low availability,Unregulated land acquisition,No,No,Affordable housing projects,Makarfi
+389,Female,18-30,Tertiary,Self-employed,"<₦50,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,Yes,No,Land-use regulation,Kudan
+390,Male,31-40,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,No,Affordable housing projects,Makarfi
+391,Male,31-40,Primary,Other,"₦100,000-₦200,000",Low,Increased slightly,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Chikun
+392,Female,18-30,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Public-private partnerships,Kudan
+393,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Very low,Decreased,Low availability,High demand and low supply,No,Yes,Public-private partnerships,Jaba
+394,Female,41-50,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Subsidized housing,Zaria
+395,Male,31-40,Tertiary,Unemployed,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,Lack of affordable housing,Yes,Yes,Subsidized housing,Makarfi
+396,Female,18-30,Secondary,Self-employed,">₦200,000",Very high,Increased slightly,Highly available,Unregulated land acquisition,No,No,Public-private partnerships,Ikara
+397,Male,18-30,Tertiary,Self-employed,">₦200,000",High,Increased significantly,Highly available,Unregulated land acquisition,No,Yes,Affordable housing projects,Chikun
+398,Female,51+,Secondary,Civil servant,">₦200,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Land-use regulation,Makarfi
+399,Male,18-30,Primary,Civil servant,"₦50,000-₦100,000",Low,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Kudan
+400,Male,31-40,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Decreased,Highly available,High demand and low supply,Yes,Yes,Affordable housing projects,Chikun
+401,Female,31-40,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Poor urban planning,Yes,Yes,Affordable housing projects,Makarfi
+402,Male,18-30,Primary,Self-employed,"₦100,000-₦200,000",Very high,Remained stable,Highly available,Lack of affordable housing,Yes,No,Subsidized housing,Ikara
+403,Male,41-50,Tertiary,Unemployed,"₦50,000-₦100,000",Very low,Increased slightly,Moderately available,Lack of affordable housing,Yes,No,Subsidized housing,Kaduna South
+404,Male,18-30,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,Yes,Public-private partnerships,Makarfi
+405,Female,18-30,Secondary,Unemployed,"<₦50,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,No,Affordable housing projects,Ikara
+406,Male,31-40,Secondary,Unemployed,"<₦50,000",Very low,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Land-use regulation,Zaria
+407,Male,31-40,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Poor urban planning,No,No,Public-private partnerships,Zaria
+408,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Decreased,Moderately available,Lack of affordable housing,No,No,Affordable housing projects,Kaduna North
+409,Female,18-30,No formal education,Civil servant,"₦100,000-₦200,000",Low,Remained stable,Moderately available,Lack of affordable housing,No,Yes,Subsidized housing,Kaduna South
+410,Female,18-30,Secondary,Unemployed,"<₦50,000",Moderate,Increased slightly,Highly available,Unregulated land acquisition,No,Yes,Public-private partnerships,Kaduna North
+411,Male,31-40,Secondary,Self-employed,"<₦50,000",Very high,Increased significantly,Low availability,Lack of affordable housing,No,No,Public-private partnerships,Kudan
+412,Male,31-40,Primary,Self-employed,"<₦50,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,No,Subsidized housing,Zaria
+413,Female,18-30,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Highly available,Lack of affordable housing,No,Yes,Public-private partnerships,Soba
+414,Male,41-50,Tertiary,Other,">₦200,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Kudan
+415,Female,31-40,Tertiary,Self-employed,"<₦50,000",High,Remained stable,Low availability,Unregulated land acquisition,Yes,Yes,Subsidized housing,Jaba
+416,Female,41-50,Primary,Self-employed,"<₦50,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,Yes,Subsidized housing,Ikara
+417,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Moderate,Remained stable,Low availability,Poor urban planning,No,No,Affordable housing projects,Jaba
+418,Male,51+,Primary,Self-employed,"<₦50,000",High,Increased significantly,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Zaria
+419,Female,41-50,Primary,Self-employed,"₦100,000-₦200,000",High,Increased significantly,Moderately available,Unregulated land acquisition,Yes,Yes,Land-use regulation,Lere
+420,Female,18-30,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,Lack of affordable housing,Yes,No,Land-use regulation,Makarfi
+421,Female,51+,Secondary,Other,"<₦50,000",High,Increased significantly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Soba
+422,Female,31-40,Secondary,Self-employed,"₦50,000-₦100,000",Low,Increased significantly,Highly available,Poor urban planning,No,No,Public-private partnerships,Soba
+423,Male,41-50,Tertiary,Unemployed,">₦200,000",Very low,Increased significantly,Moderately available,High demand and low supply,Yes,No,Public-private partnerships,Jaba
+424,Male,18-30,Primary,Unemployed,">₦200,000",Very low,Increased significantly,Moderately available,Poor urban planning,No,No,Land-use regulation,Zaria
+425,Male,18-30,Secondary,Self-employed,"<₦50,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,Yes,No,Land-use regulation,Soba
+426,Female,18-30,Primary,Self-employed,">₦200,000",High,Remained stable,Highly available,Poor urban planning,No,No,Subsidized housing,Soba
+427,Male,31-40,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Decreased,Moderately available,Lack of affordable housing,No,No,Subsidized housing,Zaria
+428,Female,31-40,Primary,Unemployed,"<₦50,000",Moderate,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Affordable housing projects,Chikun
+429,Male,31-40,Secondary,Other,"₦50,000-₦100,000",Moderate,Increased slightly,Low availability,Poor urban planning,No,No,Subsidized housing,Chikun
+430,Male,51+,Tertiary,Unemployed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Zaria
+431,Male,41-50,Tertiary,Self-employed,"₦50,000-₦100,000",High,Remained stable,Moderately available,Poor urban planning,Yes,Yes,Subsidized housing,Kudan
+432,Male,31-40,Tertiary,Unemployed,"₦100,000-₦200,000",High,Increased significantly,Moderately available,Unregulated land acquisition,No,Yes,Affordable housing projects,Chikun
+433,Female,18-30,Tertiary,Self-employed,"<₦50,000",Low,Increased slightly,Low availability,Unregulated land acquisition,No,Yes,Affordable housing projects,Jaba
+434,Male,31-40,No formal education,Self-employed,"₦50,000-₦100,000",High,Remained stable,Highly available,Lack of affordable housing,No,No,Subsidized housing,Kaduna South
+435,Male,41-50,Tertiary,Unemployed,"₦50,000-₦100,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,No,Yes,Subsidized housing,Kaduna North
+436,Female,51+,Primary,Other,"₦50,000-₦100,000",Very low,Increased significantly,Highly available,Poor urban planning,No,No,Public-private partnerships,Zaria
+437,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Moderately available,Lack of affordable housing,No,No,Public-private partnerships,Soba
+438,Male,18-30,Secondary,Civil servant,"<₦50,000",High,Increased significantly,Highly available,Unregulated land acquisition,No,No,Affordable housing projects,Kaduna South
+439,Female,31-40,Tertiary,Self-employed,"<₦50,000",Very high,Remained stable,Moderately available,Unregulated land acquisition,No,No,Public-private partnerships,Makarfi
+440,Male,31-40,Primary,Unemployed,"₦100,000-₦200,000",Very high,Increased significantly,Moderately available,Poor urban planning,No,No,Land-use regulation,Zaria
+441,Female,41-50,Tertiary,Civil servant,"₦50,000-₦100,000",Low,Increased slightly,Low availability,Lack of affordable housing,No,Yes,Public-private partnerships,Soba
+442,Male,51+,Tertiary,Other,">₦200,000",Moderate,Increased significantly,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Kudan
+443,Male,41-50,Tertiary,Civil servant,"<₦50,000",Moderate,Increased slightly,Moderately available,Poor urban planning,Yes,No,Public-private partnerships,Kudan
+444,Female,31-40,Secondary,Civil servant,"<₦50,000",Moderate,Remained stable,Highly available,Unregulated land acquisition,No,No,Subsidized housing,Makarfi
+445,Male,31-40,Tertiary,Self-employed,"<₦50,000",Very high,Increased significantly,Moderately available,Poor urban planning,No,Yes,Affordable housing projects,Ikara
+446,Male,18-30,Primary,Unemployed,"<₦50,000",High,Remained stable,Moderately available,High demand and low supply,No,No,Affordable housing projects,Zaria
+447,Male,18-30,Primary,Unemployed,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Ikara
+448,Female,41-50,Secondary,Self-employed,">₦200,000",Very high,Increased significantly,Highly available,Poor urban planning,No,No,Public-private partnerships,Jaba
+449,Male,31-40,Primary,Civil servant,"<₦50,000",Very low,Increased slightly,Moderately available,Lack of affordable housing,No,Yes,Affordable housing projects,Zaria
+450,Female,51+,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Decreased,Low availability,High demand and low supply,No,Yes,Public-private partnerships,Zaria
+451,Male,51+,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,No,Subsidized housing,Lere
+452,Male,18-30,Tertiary,Self-employed,"₦100,000-₦200,000",High,Increased slightly,Highly available,Lack of affordable housing,No,No,Land-use regulation,Soba
+453,Male,31-40,Tertiary,Unemployed,">₦200,000",High,Remained stable,Highly available,Unregulated land acquisition,No,No,Subsidized housing,Chikun
+454,Male,31-40,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Remained stable,Low availability,High demand and low supply,No,Yes,Subsidized housing,Makarfi
+455,Male,31-40,Secondary,Self-employed,"<₦50,000",Low,Remained stable,Low availability,High demand and low supply,Yes,No,Land-use regulation,Zaria
+456,Male,31-40,Secondary,Civil servant,"₦50,000-₦100,000",High,Increased slightly,Low availability,Unregulated land acquisition,No,Yes,Land-use regulation,Kaduna South
+457,Female,41-50,Primary,Unemployed,"₦50,000-₦100,000",Very high,Remained stable,Moderately available,Unregulated land acquisition,No,No,Affordable housing projects,Kaduna North
+458,Female,31-40,Secondary,Civil servant,"₦100,000-₦200,000",Low,Increased significantly,Highly available,Lack of affordable housing,Yes,Yes,Land-use regulation,Kudan
+459,Female,18-30,No formal education,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Moderately available,Poor urban planning,No,Yes,Public-private partnerships,Kudan
+460,Male,18-30,Secondary,Self-employed,"<₦50,000",Very low,Increased significantly,Low availability,Poor urban planning,No,No,Subsidized housing,Ikara
+461,Male,31-40,Secondary,Self-employed,"<₦50,000",Moderate,Increased significantly,Low availability,Unregulated land acquisition,No,No,Affordable housing projects,Kudan
+462,Male,41-50,Secondary,Other,"<₦50,000",Moderate,Increased significantly,Low availability,High demand and low supply,Yes,Yes,Subsidized housing,Kaduna South
+463,Male,31-40,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Poor urban planning,No,No,Public-private partnerships,Makarfi
+464,Female,41-50,Tertiary,Civil servant,">₦200,000",Moderate,Remained stable,Highly available,Unregulated land acquisition,No,No,Affordable housing projects,Makarfi
+465,Female,41-50,Primary,Other,"₦100,000-₦200,000",Low,Increased slightly,Moderately available,Poor urban planning,No,Yes,Land-use regulation,Zaria
+466,Female,41-50,Primary,Self-employed,"₦100,000-₦200,000",Low,Increased slightly,Highly available,Lack of affordable housing,No,No,Land-use regulation,Zaria
+467,Male,41-50,Primary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Unregulated land acquisition,No,No,Affordable housing projects,Kaduna North
+468,Female,41-50,Secondary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,Yes,Yes,Public-private partnerships,Ikara
+469,Female,51+,Secondary,Other,"₦50,000-₦100,000",Low,Remained stable,Low availability,Unregulated land acquisition,No,Yes,Land-use regulation,Soba
+470,Female,41-50,Primary,Civil servant,"₦50,000-₦100,000",Low,Remained stable,Low availability,High demand and low supply,No,Yes,Land-use regulation,Zaria
+471,Male,41-50,Tertiary,Self-employed,"₦50,000-₦100,000",Moderate,Increased significantly,Moderately available,Lack of affordable housing,Yes,No,Land-use regulation,Ikara
+472,Male,51+,Tertiary,Civil servant,">₦200,000",Moderate,Remained stable,Moderately available,Unregulated land acquisition,No,No,Land-use regulation,Kudan
+473,Female,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Moderately available,Poor urban planning,Yes,No,Land-use regulation,Soba
+474,Male,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,Lack of affordable housing,No,Yes,Land-use regulation,Ikara
+475,Male,31-40,Secondary,Civil servant,"₦100,000-₦200,000",High,Increased slightly,Highly available,Unregulated land acquisition,Yes,No,Subsidized housing,Kudan
+476,Male,18-30,Primary,Unemployed,"₦100,000-₦200,000",High,Remained stable,Low availability,High demand and low supply,No,No,Land-use regulation,Jaba
+477,Female,31-40,Primary,Self-employed,"₦100,000-₦200,000",Moderate,Remained stable,Highly available,Lack of affordable housing,Yes,No,Land-use regulation,Ikara
+478,Female,51+,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,High demand and low supply,No,Yes,Affordable housing projects,Chikun
+479,Male,31-40,Primary,Unemployed,"₦100,000-₦200,000",Very high,Increased slightly,Moderately available,Unregulated land acquisition,Yes,No,Land-use regulation,Ikara
+480,Male,18-30,Secondary,Self-employed,"₦100,000-₦200,000",Very high,Increased slightly,Low availability,High demand and low supply,No,No,Subsidized housing,Makarfi
+481,Male,18-30,Secondary,Other,">₦200,000",High,Remained stable,Highly available,High demand and low supply,Yes,Yes,Public-private partnerships,Lere
+482,Male,41-50,Tertiary,Civil servant,"<₦50,000",Very high,Decreased,Moderately available,High demand and low supply,No,No,Affordable housing projects,Lere
+483,Female,18-30,Tertiary,Self-employed,"<₦50,000",Low,Increased slightly,Low availability,High demand and low supply,No,No,Affordable housing projects,Kaduna South
+484,Male,18-30,Secondary,Self-employed,"<₦50,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,No,Subsidized housing,Kaduna North
+485,Female,51+,Tertiary,Civil servant,"₦50,000-₦100,000",Low,Increased significantly,Moderately available,Lack of affordable housing,No,No,Affordable housing projects,Soba
+486,Female,41-50,Tertiary,Other,"<₦50,000",Moderate,Increased significantly,Moderately available,High demand and low supply,Yes,No,Subsidized housing,Kaduna South
+487,Male,18-30,Secondary,Civil servant,"₦50,000-₦100,000",Moderate,Increased slightly,Moderately available,Poor urban planning,No,No,Public-private partnerships,Makarfi
+488,Female,31-40,Tertiary,Civil servant,">₦200,000",Moderate,Increased significantly,Moderately available,High demand and low supply,No,No,Land-use regulation,Kudan
+489,Male,31-40,Tertiary,Self-employed,"₦100,000-₦200,000",Low,Increased slightly,Moderately available,Unregulated land acquisition,No,No,Public-private partnerships,Makarfi
+490,Female,18-30,Tertiary,Self-employed,"<₦50,000",Very low,Increased slightly,Low availability,Poor urban planning,No,Yes,Subsidized housing,Kaduna South
+491,Male,41-50,Tertiary,Self-employed,"<₦50,000",Moderate,Remained stable,Low availability,Poor urban planning,Yes,Yes,Subsidized housing,Chikun
+492,Female,31-40,Secondary,Self-employed,"<₦50,000",Very high,Increased significantly,Highly available,Unregulated land acquisition,No,Yes,Public-private partnerships,Chikun
+493,Male,18-30,Secondary,Self-employed,"<₦50,000",High,Increased slightly,Moderately available,High demand and low supply,No,No,Public-private partnerships,Soba
+494,Male,51+,Tertiary,Civil servant,"₦100,000-₦200,000",Moderate,Increased significantly,Low availability,High demand and low supply,No,No,Affordable housing projects,Jaba
+495,Male,31-40,Secondary,Self-employed,"₦50,000-₦100,000",High,Increased slightly,Low availability,High demand and low supply,No,No,Public-private partnerships,Zaria
+496,Male,31-40,Primary,Self-employed,"<₦50,000",Moderate,Increased slightly,Low availability,Unregulated land acquisition,No,Yes,Subsidized housing,Kaduna North
+497,Female,18-30,Secondary,Self-employed,"<₦50,000",Low,Remained stable,Highly available,Poor urban planning,No,No,Public-private partnerships,Makarfi
+498,Male,41-50,Tertiary,Civil servant,"₦50,000-₦100,000",Very low,Remained stable,Low availability,High demand and low supply,No,No,Land-use regulation,Kaduna South
+499,Female,31-40,No formal education,Civil servant,"<₦50,000",Very low,Remained stable,Moderately available,High demand and low supply,Yes,No,Public-private partnerships,Kudan
+500,Female,18-30,No formal education,Self-employed,"₦100,000-₦200,000",Moderate,Increased slightly,Highly available,Poor urban planning,No,Yes,Land-use regulation,Kaduna South
